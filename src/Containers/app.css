@@ -1,0 +1,14 @@
+
+.statesTitle {
+	-webkit-background-clip: text;
+	background-clip: text;
+	background-image: url(https://media.giphy.com/media/3osxYcwi3hCVbzNYqY/giphy.gif);
+	background-position: center;
+	background-size: 10% auto;
+	color:rgba(255,255,255,.1);
+	letter-spacing: .1em;
+  text-transform: uppercase;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 6rem;
+}
+
